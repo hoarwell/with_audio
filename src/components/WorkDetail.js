@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams } from 'react-router-dom';
 import one from '../assets/1.mp3';
 import two from '../assets/2.mp3';
-import first from '../assets/one.jpg';
-import second from '../assets/two.jpeg';
+import first from '../assets/one.jpeg';
+import second from '../assets/two.jpg';
 
 const WorkDetail = () => {
     const audios = [ one, two ];
