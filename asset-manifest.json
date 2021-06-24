@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e3a07f5.chunk.css",
-    "main.js": "/static/js/main.c1251fda.chunk.js",
-    "main.js.map": "/static/js/main.c1251fda.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e818939d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e818939d.js.map",
-    "static/js/2.12a93c62.chunk.js": "/static/js/2.12a93c62.chunk.js",
-    "static/js/2.12a93c62.chunk.js.map": "/static/js/2.12a93c62.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1e3a07f5.chunk.css.map": "/static/css/main.1e3a07f5.chunk.css.map",
-    "static/js/2.12a93c62.chunk.js.LICENSE.txt": "/static/js/2.12a93c62.chunk.js.LICENSE.txt",
-    "static/media/1.5e112337.mp3": "/static/media/1.5e112337.mp3",
-    "static/media/2.3ef5b266.mp3": "/static/media/2.3ef5b266.mp3",
-    "static/media/one.dbb168a8.jpg": "/static/media/one.dbb168a8.jpg",
-    "static/media/two.693a5434.jpeg": "/static/media/two.693a5434.jpeg"
+    "main.css": "/with_audio/static/css/main.1e3a07f5.chunk.css",
+    "main.js": "/with_audio/static/js/main.c1251fda.chunk.js",
+    "main.js.map": "/with_audio/static/js/main.c1251fda.chunk.js.map",
+    "runtime-main.js": "/with_audio/static/js/runtime-main.78918ec2.js",
+    "runtime-main.js.map": "/with_audio/static/js/runtime-main.78918ec2.js.map",
+    "static/js/2.12a93c62.chunk.js": "/with_audio/static/js/2.12a93c62.chunk.js",
+    "static/js/2.12a93c62.chunk.js.map": "/with_audio/static/js/2.12a93c62.chunk.js.map",
+    "index.html": "/with_audio/index.html",
+    "static/css/main.1e3a07f5.chunk.css.map": "/with_audio/static/css/main.1e3a07f5.chunk.css.map",
+    "static/js/2.12a93c62.chunk.js.LICENSE.txt": "/with_audio/static/js/2.12a93c62.chunk.js.LICENSE.txt",
+    "static/media/1.5e112337.mp3": "/with_audio/static/media/1.5e112337.mp3",
+    "static/media/2.3ef5b266.mp3": "/with_audio/static/media/2.3ef5b266.mp3",
+    "static/media/one.dbb168a8.jpg": "/with_audio/static/media/one.dbb168a8.jpg",
+    "static/media/two.693a5434.jpeg": "/with_audio/static/media/two.693a5434.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e818939d.js",
+    "static/js/runtime-main.78918ec2.js",
     "static/js/2.12a93c62.chunk.js",
     "static/css/main.1e3a07f5.chunk.css",
     "static/js/main.c1251fda.chunk.js"
