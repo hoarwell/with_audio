@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/with_audio/static/css/main.4479a588.chunk.css",
-    "main.js": "/with_audio/static/js/main.68041b00.chunk.js",
-    "main.js.map": "/with_audio/static/js/main.68041b00.chunk.js.map",
+    "main.css": "/with_audio/static/css/main.29b6794e.chunk.css",
+    "main.js": "/with_audio/static/js/main.6b71aa06.chunk.js",
+    "main.js.map": "/with_audio/static/js/main.6b71aa06.chunk.js.map",
     "runtime-main.js": "/with_audio/static/js/runtime-main.78918ec2.js",
     "runtime-main.js.map": "/with_audio/static/js/runtime-main.78918ec2.js.map",
     "static/js/2.282651ae.chunk.js": "/with_audio/static/js/2.282651ae.chunk.js",
     "static/js/2.282651ae.chunk.js.map": "/with_audio/static/js/2.282651ae.chunk.js.map",
     "index.html": "/with_audio/index.html",
-    "static/css/main.4479a588.chunk.css.map": "/with_audio/static/css/main.4479a588.chunk.css.map",
+    "static/css/main.29b6794e.chunk.css.map": "/with_audio/static/css/main.29b6794e.chunk.css.map",
     "static/js/2.282651ae.chunk.js.LICENSE.txt": "/with_audio/static/js/2.282651ae.chunk.js.LICENSE.txt",
     "static/media/1.5e112337.mp3": "/with_audio/static/media/1.5e112337.mp3",
     "static/media/2.3ef5b266.mp3": "/with_audio/static/media/2.3ef5b266.mp3",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.78918ec2.js",
     "static/js/2.282651ae.chunk.js",
-    "static/css/main.4479a588.chunk.css",
-    "static/js/main.68041b00.chunk.js"
+    "static/css/main.29b6794e.chunk.css",
+    "static/js/main.6b71aa06.chunk.js"
   ]
 }
