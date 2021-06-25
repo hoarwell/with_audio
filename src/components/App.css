@@ -1,10 +1,6 @@
-html {
+/* body {
   cursor: none;
-}
-
-a {
-  cursor: none; 
-}
+} */
 
 .App {
   width: 100%;
@@ -31,7 +27,7 @@ audio {
   cursor: none;
 }
 
-.cursor {
+/* .cursor {
   position: absolute;
   width: 20px;
   height: 20px;
@@ -40,4 +36,4 @@ audio {
   left: 0%;
   border-radius: 50%;
   z-index: 9999;
-}
+} */

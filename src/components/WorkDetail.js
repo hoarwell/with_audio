@@ -16,7 +16,7 @@ const WorkDetail = () => {
 
     const audioRef = useRef();
     const imageRef = useRef();
-    const cursorRef = useRef();
+    // const cursorRef = useRef();
 
     const handleNotHover = (e) => {
         const { value } = e.target
@@ -48,14 +48,14 @@ const WorkDetail = () => {
         }
     }
 
-    const cursor = () => {
-        cursorRef.current.style.top = `${position.y}px`;
-        cursorRef.current.style.left =`${position.x}px`;
-    }
+    // const cursor = () => {
+    //     cursorRef.current.style.top = `${position.y}px`;
+    //     cursorRef.current.style.left =`${position.x}px`;
+    // }
 
     useEffect(() => {
         collapse();
-        cursor();
+        // cursor();
     })
 
     const init = () => {
@@ -73,7 +73,7 @@ const WorkDetail = () => {
     
     return (
         <div className ="container">
-            <div ref = { cursorRef } className = "cursor"></div>
+            {/* <div ref = { cursorRef } className = "cursor"></div> */}
             <h1>work { idParams.workId } page</h1>
             <img ref = { imageRef } src = { images[idParams.workId - 1]} onMouseOut = { handleNotHover } onMouseOver = { handleHover } alt = ""/>
             <audio controls autoPlay ref = { audioRef } src = { audios[idParams.workId - 1] }></audio>
